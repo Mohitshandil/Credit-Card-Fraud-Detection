@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-able of Contents
+Table of Contents
 
 Introduction
 Overview of the Web Application
